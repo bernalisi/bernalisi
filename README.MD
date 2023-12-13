@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Bernardo
+# 🎸 Hey there, I'm Bernardo
 
 ## About Me
 - 🌍 Global background (USA, Berlin, Paris, Milan).
