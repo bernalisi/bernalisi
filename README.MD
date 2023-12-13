@@ -6,7 +6,7 @@
 - 😄 Inherent optimist and coding enthusiast.
 
 ## Skills
-- Frontend: HTML, CSS, JavaScript, React.
+- Frontend: `HTML`, CSS, JavaScript, React.
 - Backend: Ruby, Ruby on Rails.
 - Database: PostgreSQL, SQLite, SQL.
 - Other: Git, GitHub, VS Code.
