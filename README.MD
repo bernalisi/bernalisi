@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Bernardo Lisi
 
 ## About Me
 - 🌍 Global background (USA, Berlin, Paris, Milan).
@@ -7,18 +7,13 @@
 
 ## Skills
 - Frontend: HTML, CSS, JavaScript, React.
-- Backend: Node.js, Express.
-- Database: MongoDB, MySQL.
+- Backend: Ruby, Ruby on Rails.
+- Database: PostgreSQL, SQLite, SQL.
 - Other: Git, GitHub, VS Code.
 
-## Projects
-- [Project 1](link-to-project-1): Short description.
-- [Project 2](link-to-project-2): Short description.
-
 ## Let's Connect
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
+- [LinkedIn](in/bernardo-lisi)
 
 ## Contact
-- 📧 Email: your@email.com
+- 📧 Email: bernardo.lisi.work@gmail.com
 
