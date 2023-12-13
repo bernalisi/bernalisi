@@ -12,7 +12,7 @@
 - Other: Git, GitHub, VS Code.
 
 ## Let's Connect
-- [LinkedIn](in/bernardo-lisi)
+- [LinkedIn](https://www.linkedin.com/in/bernardo-lisi/?locale=en_US)
 
 ## Contact
 - 📧 Email: bernardo.lisi.work@gmail.com
