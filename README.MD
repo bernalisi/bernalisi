@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Bernardo Lisi
+# 👋 Hey there, I'm Bernardo
 
 ## About Me
 - 🌍 Global background (USA, Berlin, Paris, Milan).
 - 💻 Web Development enthusiast.
 - 😄 Inherent optimist and coding enthusiast.
 
-## Skills
+## Stack
 - Frontend: `HTML`, `CSS`, `JavaScript`, `React`.
 - Backend: `Ruby`, `Ruby on Rails`.
 - Database: `PostgreSQL`, `SQLite`, `SQL`.
@@ -14,6 +14,6 @@
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/bernardo-lisi/?locale=en_US)
 
-## Contact
+## Contact me ;)
 - 📧 Email: bernardo.lisi.work@gmail.com
 
