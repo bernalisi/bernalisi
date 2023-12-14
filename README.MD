@@ -3,7 +3,7 @@
 ## About Me
 - 🌍 Global background (USA, Berlin, Paris, Milan).
 - 💻 Web Development enthusiast.
-- 😄 Inherent optimist and coding enthusiast.
+- 😄 Inherent optimist and coding gig.
 
 ## Stack
 - Frontend: `HTML`, `CSS`, `JavaScript`, `React`.
