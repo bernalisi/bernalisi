@@ -7,7 +7,7 @@
 
 ## Stack
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,sqlite,postgres,mysql,git,figma,vscode&theme=light)](https://skillicons.dev)
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails&theme=light)](https://skillicons.dev)
 #### Databases
