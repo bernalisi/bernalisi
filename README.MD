@@ -6,10 +6,6 @@
 - 😄 Inherent optimist and coding gig.
 
 ## Stack
-- Frontend: `HTML`, `CSS`, `JavaScript`, `React`.
-- Backend: `Ruby`, `Ruby on Rails`.
-- Database: `PostgreSQL`, `SQLite`, `SQL`.
-- Other: `Git`, `GitHub`, `VS Code`.
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://skillicons.dev)
 #### Backend
