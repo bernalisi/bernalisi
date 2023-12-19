@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails&theme=light)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=light)](https://skillicons.dev)
-#### Other
+#### Others
 [![My Skills](https://skillicons.dev/icons?i=git,figma,vscodel&theme=light)](https://skillicons.dev)
 
 ## Let's Connect
