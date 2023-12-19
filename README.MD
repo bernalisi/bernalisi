@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌍 Global background (USA, Berlin, Paris, Milan).
-- 💻 Web Development enthusiast.
+- 💻 Web Development enthusiast with knowledge of data science
 - 😄 Inherent optimist and coding gig.
 
 ## Stack
