@@ -10,7 +10,8 @@
 - Backend: `Ruby`, `Ruby on Rails`.
 - Database: `PostgreSQL`, `SQLite`, `SQL`.
 - Other: `Git`, `GitHub`, `VS Code`.
-
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://skillicons.dev)
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails&theme=light)](https://skillicons.dev)
 
