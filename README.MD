@@ -11,7 +11,8 @@
 - Database: `PostgreSQL`, `SQLite`, `SQL`.
 - Other: `Git`, `GitHub`, `VS Code`.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails&theme=light)](https://skillicons.dev)
 
 ## Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bernardo-lisi-99b367134/)
