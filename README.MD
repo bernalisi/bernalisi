@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/bernardo-lisi/?locale=en_US)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bernardo-lisi-99b367134/)
 
 ## Contact me ;)
 - 📧 Email: bernardo.lisi.work@gmail.com
