@@ -18,6 +18,6 @@
 ## Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bernardo-lisi-99b367134/)
 
-## Contact me ;)
+## Contact me 🚀
 - 📧 Email: bernardo.lisi.work@gmail.com
 
