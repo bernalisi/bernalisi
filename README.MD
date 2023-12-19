@@ -17,7 +17,7 @@
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=light)](https://skillicons.dev)
 #### Others
-[![My Skills](https://skillicons.dev/icons?i=git,figma,vscodel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,vscode&theme=light)](https://skillicons.dev)
 
 ## Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bernardo-lisi-99b367134/)
