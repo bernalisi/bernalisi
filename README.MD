@@ -6,14 +6,7 @@
 - 😄 Inherent optimist and coding gig.
 
 ## Stack
-#### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,sqlite,postgres,mysql,git,figma,vscode&theme=light)](https://skillicons.dev)
-#### Backend
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails&theme=light)](https://skillicons.dev)
-#### Databases
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=light)](https://skillicons.dev)
-#### Others
-[![My Skills](https://skillicons.dev/icons?i=git,figma,vscode&theme=light)](https://skillicons.dev)
 
 ## Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bernardo-lisi-99b367134/)
