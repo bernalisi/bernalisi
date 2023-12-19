@@ -1,9 +1,9 @@
 # 💥 Hey there, I'm Bernardo
 
 ## About Me
-🌍 Global background (USA, Berlin, Paris, Milan).
-💻 Web Development enthusiast with knowledge of data science
-😄 Inherent optimist and coding gig.
+- 🌍 Global background (USA, Berlin, Paris, Milan).
+- 💻 Web Development enthusiast with knowledge of data science
+- 😄 Inherent optimist and coding gig.
 
 ## Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,python,sqlite,postgres,mysql,git,figma,vscode&theme=light&perline=7)](https://skillicons.dev)
