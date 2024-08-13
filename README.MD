@@ -6,7 +6,7 @@
 - 😄 Inherent optimist and coding gig.
 
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,python,sqlite,postgres,mysql,git,figma,vscode&theme=light&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ruby,rails,python,sqlite,postgres,mysql,git,figma,vscode&theme=light&perline=7)](https://skillicons.dev)
 
 ## Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light&perline=7)](https://www.linkedin.com/in/bernardo-lisi-99b367134/)
